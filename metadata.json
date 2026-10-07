@@ -1,0 +1,6 @@
+{
+  "name": "Bara'em Qassim - Kindergarten Learning Hub",
+  "description": "منصة براعم القصيم التعليمية التفاعلية لأطفال الروضة - ألعاب تعليمية، رياضيات، لغة عربية، تنمية التفكير، ولوحات تحكم لأولياء الأمور والمعلمين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
